@@ -1,0 +1,43 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Local development files
+appsettings.Development.json
+
+# MSTest test results
+TestResults/
+*.trx
+
+# Resharper files
+_ReSharper.*
+*.resharper
+
+# Azure Functions
+local.settings.json
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Visual Studio cache directory
+.vscode/
